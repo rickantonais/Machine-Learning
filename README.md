@@ -1,1 +1,1 @@
-"Machine learning with Quandl financial data" 
+"Machine learning with Quandl financial data - Sentdex" 
